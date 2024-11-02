@@ -9,3 +9,7 @@ Un bot simple el cual puede contestar preguntas como el clima, datos curiosos y 
 
    ```bash
    python main.py
+
+# Integrantes
+Erick Alejandro Herrera Quintana A01568065
+Sergio Abraham Burciaga Flores A01562951
