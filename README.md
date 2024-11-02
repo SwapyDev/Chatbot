@@ -1,12 +1,11 @@
 # Chatbot Project
 
-A simple multilingual chatbot that can respond to questions about the weather, facts, and news in English and Spanish.
-
+Un bot simple el cual puede contestar preguntas como el clima, datos curiosos y una que otra noticia tanto en ingles como español
 ## How to Run
 
-1. Clone the repository.
-2. Navigate to the `src` directory.
-3. Run `main.py` using Python:
+1. Clonar el repositorio.
+2. Navegar al directorio src.
+3. Correr `main.py` usando Python:
 
    ```bash
    python main.py
