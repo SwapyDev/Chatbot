@@ -3,6 +3,7 @@ import random
 # Diccionario de respuestas
 responses = {
     "en": {
+        "hi": "Hello! How can I help you?",
         "hello": "Hello! How can I help you?",
         "how are you": "I'm just a bot, but I'm here to help!",
         "bye": "Goodbye! Have a great day!",

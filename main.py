@@ -1,5 +1,4 @@
 from responses import generate_response
-from language_detection import detect_language
 
 def chatbot():
     print("Chatbot: ¡Hola! Preguntame algo sobre el clima, un dato curioso o algo sobre noticias. / Hello! Ask me about the weather, a fun fact, or the news.")
